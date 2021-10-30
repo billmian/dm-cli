@@ -1,6 +1,6 @@
 {
   "name": "@daimian/cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "bin": {
     "dm-cli": "src/index.js"
