@@ -1,5 +1,5 @@
 {
-  "name": "dm-cli",
+  "name": "@daimian/cli",
   "version": "1.0.0",
   "license": "MIT",
   "bin": {
