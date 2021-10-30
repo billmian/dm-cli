@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "license": "MIT",
   "bin": {
-    "hello-cli": "src/index.js"
+    "dm-cli": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
   },
   "dependencies": {
+    "adm-zip": "^0.5.9",
     "chalk": "^4.1.0",
     "cross-spawn": "^7.0.3",
+    "ejs": "^3.1.6",
     "execa": "^4.1.0",
     "fs-extra": "^9.0.1",
     "inquirer": "^7.3.3",
